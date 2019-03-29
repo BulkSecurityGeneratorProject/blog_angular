@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.sondeos.blog",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "blog",
+        "packageName": "com.sondeos.blog",
+        "packageFolder": "com/sondeos/blog",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ODY0MjRlMjc3N2Q0NGVjNDdhNjM5YWRmOTU2YTlhZTU3YTcwNDgyODUyNmNiYjYyODFlY2Q3ZDQzZTFmYTI5YjA0OWMxODc2Njc2MTkxZTUwOWFmMmNiNGY3OWVlOTNmMDNiYzVjODgzZWVlZTg3ZTNmZmY2ZDM5NTIxNjhiMTg=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "es"]
+    }
+}
